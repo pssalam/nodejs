@@ -1,0 +1,22 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "Basic NodeJS Server example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pssalam/nodejs/simple_server"
+  },
+  "keywords": [
+    "nodeJS",
+    "Simple",
+    "Server",
+    "Basic",
+    "Server"
+  ],
+  "author": "Shibu Salam",
+  "license": "ISC"
+}
