@@ -1,0 +1,23 @@
+{
+  "name": "query_params",
+  "version": "1.0.0",
+  "description": "Simple NodeJS server which responds JSON query parameter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pssalam/nodejs/query_param"
+  },
+  "keywords": [
+    "queryparameter",
+    "nodejs",
+    "simple",
+    "server",
+    "json",
+    "response"
+  ],
+  "author": "Shibu Salam",
+  "license": "ISC"
+}
